@@ -11,7 +11,7 @@ I've been a fullstack developer for 3 years after learning it at Epitech, and I 
 * 🧠  I'm learning NextJS 14/15
 * 🤝  I'm open to collaborating on a development mission focused on full-stack development, ideally lasting between 6 to 12 months. My preference is for sectors such as technology, healthcare, or education, where I can contribute to meaningful and user-centered projects.
 
-//<a href="https://www.twitch.tv/bigflag55" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/bigflag55?logo=twitchsx&style=for-the-badge&color=a855f7&labelColor=581c87&label=TWITCH+STATUS" /></a>
+<a href="https://www.twitch.tv/bigflag55" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/bigflag55?logo=twitchsx&style=for-the-badge&color=a855f7&labelColor=581c87&label=TWITCH+STATUS" /></a>
 
 ### Skills
 

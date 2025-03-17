@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 -------------------
 
-I've been a fullstack developer for 3 years after learning it at Epitech, and I doscovered that I prefered back-end
+I've been a fullstack developer for 5 years after learning it at Epitech, and I doscovered that I prefered back-end
 
 * 🌍  I'm based in Versailles
 * ✉️  You can contact me at [ilyes.huus@gmail.com](mailto:ilyes.huus@gmail.com)
